@@ -41,3 +41,7 @@ Quer entrar em contato comigo? Preencha o formulário de contato presente na pá
 ## Licença
 
 Este projeto é de uso pessoal, mas fique à vontade para utilizar o código como inspiração para seus próprios projetos.
+
+## Acesse o Projeto
+
+Você pode visualizar o projeto ao vivo no GitHub Pages: [Meu Portfólio](https://tonycarlosdev.github.io/challenge-portfolio-alura-one/)
