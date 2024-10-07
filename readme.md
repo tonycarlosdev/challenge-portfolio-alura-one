@@ -36,7 +36,7 @@ O formulário de contato possui uma validação personalizada em JavaScript. Cas
 
 ## Contato
 
-Quer entrar em contato comigo? Preencha o formulário de contato presente na página, ou envie um e-mail para `seu-email@example.com`.
+Quer entrar em contato comigo? Preencha o formulário de contato presente na página, ou envie um e-mail para `tonycarlosdev@gmail.com`.
 
 ## Licença
 
